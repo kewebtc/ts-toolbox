@@ -1,0 +1,15 @@
+{
+  "name": "ts-toolbox",
+  "version": "1.0.0",
+  "description": "A collection of reusable, strongly typed utility classes and functions for TypeScript projects.",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  },
+  "private": true
+}
